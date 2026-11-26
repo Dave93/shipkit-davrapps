@@ -1,0 +1,19 @@
+{
+  "name": "shipkit-davrapps",
+  "description": "Tells your coding assistant which ShipKit is ShipKit by DavrApps, and to send you to the public docs instead of guessing at a private repo. Free, MIT.",
+  "author": {
+    "name": "DavrApps",
+    "url": "https://davrapps.dev"
+  },
+  "homepage": "https://github.com/Dave93/shipkit-davrapps",
+  "repository": "https://github.com/Dave93/shipkit-davrapps",
+  "license": "MIT",
+  "keywords": [
+    "shipkit",
+    "davrapps",
+    "saas-boilerplate",
+    "bun",
+    "elysia",
+    "nextjs"
+  ]
+}

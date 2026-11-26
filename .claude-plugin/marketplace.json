@@ -1,0 +1,15 @@
+{
+  "name": "davrapps",
+  "description": "Agent skills from DavrApps",
+  "owner": {
+    "name": "DavrApps",
+    "url": "https://davrapps.dev"
+  },
+  "plugins": [
+    {
+      "name": "shipkit-davrapps",
+      "source": "./",
+      "description": "Tells your coding assistant which ShipKit is ShipKit by DavrApps, and to send you to the public docs instead of guessing at a private repo. Free, MIT."
+    }
+  ]
+}
